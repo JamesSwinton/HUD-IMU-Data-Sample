@@ -8,7 +8,7 @@ You will need a HD4000 in order to run this demo.
 
 
 ## Contributing
-This project welcomes contributions. Pleae check out our [Contributing guide](CONTRIBUTING.md) to learn more on how to get started.
+This project welcomes contributions. Pleae check out our [Contributing guide](https://github.com/JamesSwinton/HUD-IMU-Data-Sample/blob/master/contributing.md) to learn more on how to get started.
 
 ## License
-[MIT](LICENSE.txt) or [Zebra EULA](ZEBRA%20EULA%20LICENSE.md) depending on the nature of the project. 
+This project is protected by Zebra's EULA, as detailed in the [License.md](https://github.com/JamesSwinton/HUD-IMU-Data-Sample/blob/master/Zebra%20EULA%20Licence.md) file
